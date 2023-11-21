@@ -1,4 +1,4 @@
-# Welcome to the auto trade bot. This bot is designed for the average investor seeking to gain some level of competitiveness against the large cap institutional retail investors. 
+# Python auto trade bot v1 (built circa 2021)
 
 First to start here are some details about the risk strategy.py file that is running: 
 
