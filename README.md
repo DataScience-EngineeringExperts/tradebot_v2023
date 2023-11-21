@@ -1,8 +1,8 @@
 # Python auto trade bot v1 (built circa 2021)
 
-First to start here are some details about the risk strategy.py file that is running: 
+This bot was built to enable developers a chance to interact with the specific libraries and develop their skills from the Ground floor. You will find different ways to optimize the code that you are able to view, and I look forward to witnessing if this code actually grows.
 
-This bot implements risk management strategies for algorithmic trading.
+First to start, here are some details about the 'risk strategy.py' file: 
 
 ## Key Features
 
