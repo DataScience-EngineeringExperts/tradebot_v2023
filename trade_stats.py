@@ -7,8 +7,8 @@ from s3connector import azure_connection_string, upload_blob, download_blob
 
 # BlobServiceClient object which will be used to create a container client
 blob_service_client = BlobServiceClient.from_connection_string(azure_connection_string)
-container_name = 'historic'  # replace with your container name
-blob_name = 'trades.csv'
+container_name = '[]'  # replace with your container name
+blob_name = '[].csv'
 
 
 from datetime import datetime
